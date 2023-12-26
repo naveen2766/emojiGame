@@ -1,0 +1,36 @@
+/* Write your code here. */
+.winLoss-container {
+  height: 40vh;
+  width: 30vw;
+  display: flex;
+  justify-content: space-between;
+  background-color: #ffffff33;
+  padding: 10px;
+  border-radius: 10px;
+}
+.game-score {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 20vw;
+}
+.your-heading {
+  color: white;
+  font-weight: 700;
+}
+.winLoss-img {
+  height: 35vh;
+  width: 30vw;
+}
+.score-outOf-12 {
+  font-weight: 700;
+}
+.playAgain-button {
+  background-color: #ffce27;
+  height: 4vh;
+  width: 8vw;
+  border: 0px;
+  font-weight: 800;
+  border-radius: 10px;
+  cursor: pointer;
+}

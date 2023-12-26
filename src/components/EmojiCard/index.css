@@ -1,0 +1,26 @@
+/* Write your code here. */
+.each-emoji {
+  height: 15vh;
+  width: 8vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff33;
+  margin: 2px;
+  border-radius: 10px;
+}
+.emoji {
+  height: 7vh;
+  width: 5vw;
+  border: 0px;
+}
+.emoji-button {
+  border: 0px solid;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: transparent;
+  border: 0px;
+}
+.display {
+  display: none;
+}
